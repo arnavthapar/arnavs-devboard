@@ -7,8 +7,9 @@ Not done
 
 ## Schematic
 
-Not done
+![Schematic](https://github.com/arnavthapar/arnavs-devboard/blob/main/assets/schematic.png)
 
 ## PCB
 
 Not done
+
