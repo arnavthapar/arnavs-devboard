@@ -11,6 +11,6 @@ Not done
 
 ## PCB
 
-![PCB](https://github.com/arnavthapar/arnavs-devboard/blob/main/assets/pcbpcb.png)
+![PCB](https://github.com/arnavthapar/arnavs-devboard/blob/main/assets/pcb.png)
 
 
